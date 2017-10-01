@@ -10,4 +10,5 @@ When run on the command line this turns your input into a mixed case string that
 
 
 Have fun and enjoy!
-![mocking Spongebob](https://github.com/dstack4273/)
+
+![mocking Spongebob](https://github.com/dstack4273/SpongeCase/blob/master/mocking-spongebob.jpg)
