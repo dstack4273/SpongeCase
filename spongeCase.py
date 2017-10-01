@@ -1,5 +1,4 @@
 import re
-feeder = str(input('Enter your string to convert to Sponge-Case! '))
 
 
 def spongecase(feedMe):
@@ -41,4 +40,10 @@ def spongecase(feedMe):
     return swapped
 
 
-print(spongecase(feeder))
+def main():
+    print(spongecase(feeder))
+
+
+if __name__ == "__main__":
+    feeder = str(input('Enter your string to convert to Sponge-Case! '))
+    main()
