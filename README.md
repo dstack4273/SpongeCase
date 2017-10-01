@@ -1,7 +1,7 @@
 # SpongeCase
-Python 3 script to take a string from the command line, and convert it to a mixed case string like is popular in the dumb Spongebob meme
+Python 3 script to take a string from the command line (now callable from another program too!), and convert it to a mixed case string like is popular in the dumb Spongebob meme
 
-`This script will work with Python 2 if you change the user input from input() to raw_input(). Python 3 treats this differently and handles apostrophes and punctuation gracefully but it'll fail with a syntax error in Python 2.`
+> This script will work with Python 2 if you change the user input from input() to raw_input(). Python 3 treats this differently and handles apostrophes and punctuation gracefully but it'll fail with a syntax error in Python 2.
 
 When run on the command line this turns your input into a mixed case string that you can use to mock your foes online!
 
